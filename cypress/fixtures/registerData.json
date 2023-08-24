@@ -5,6 +5,7 @@
     "lastName" : "QA",
     "email": "test2@geo.com",
     "telephone": "1234567890",
-    "password": "Cypress@2023"
+    "password": "Cypress@2023",
+    "success_message" : "Success: You have added iPhone to your shopping cart!"
 
 }

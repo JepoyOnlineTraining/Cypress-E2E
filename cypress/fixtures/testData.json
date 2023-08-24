@@ -1,0 +1,23 @@
+{
+
+    "Login": {
+
+        "username": "test2@geo.com",
+        "password": "Cypress@2023"
+
+    },
+
+    "Product": {
+
+        "product_name": "IPhone"
+
+    },
+
+    "message": {
+
+        "success_message": "Success: You have added iPhone to your shopping cart!"
+
+    }
+
+
+}
